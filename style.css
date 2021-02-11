@@ -1,10 +1,24 @@
-h1 {
-  color: blue;
-  font-family: verdana;
-  font-size: 300%;
+body {
+	background-color:#f6d8ac ;
 }
+
+h1, h2 {
+	color:#f54242 ;
+	font-family: verdana;
+}
+
+h3 {
+	color:#424bf5 ;
+	font-family:times;
+	font-size:140% ;
+}
+
 pre {
-  color: red;
-  font-family: courier;
-  font-size: 100%;
+	color: #2a6592;
+	font-family:garamond ;
+	font-size: 110%;
+	font-weight: 700;
+	line-height: 1.2;
 }
+
+
