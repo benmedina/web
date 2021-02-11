@@ -1,0 +1,10 @@
+h1 {
+  color: blue;
+  font-family: verdana;
+  font-size: 300%;
+}
+pre {
+  color: red;
+  font-family: courier;
+  font-size: 100%;
+}
