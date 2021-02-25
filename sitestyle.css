@@ -1,0 +1,140 @@
+body {
+    text-align: center;
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    background-color: #f6d8ac;
+    color: #FFFFFF;
+}
+
+h1,h2,h3 {
+    font-family: verdana;
+	color: #f54242;
+    text-align: center;
+}
+
+p {
+    border: solid black 3px;
+	font-family: garamond;
+    padding: 2%;
+    font-size: 20px;
+	font-weight: 700;
+    text-align: justify;
+	color: #2a6592;
+	line-height: 1.6;
+}
+
+table {
+    border-collapse: collapse;
+    padding: 5px;
+    background-color: #ff9999;
+	width: 100%;
+}
+
+td, tr, th {
+    border: solid black;
+    padding: 5px;
+    text-align: center
+}
+
+a.nav:hover {
+    color: black
+}
+
+/*
+.paragraph {
+    border: solid #FFFFFF 2px;
+    padding: 2%;
+    margin-top: 5%;
+}
+
+img {
+    width: 50%;
+    max-height: 600px;
+    object-fit: cover;
+}
+
+#heading {
+    border: double #FFFFFF 5px;
+    padding-left: 2%;
+    padding-right: 2%;
+    width: fit-content;
+    margin: auto;
+    margin-top: 50px;
+}
+
+
+.navbar ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    border: solid #FFFFFF 2px;
+    text-align: left;
+    position: fixed;
+    width: 90%;
+    top: 20px;
+    background-color: #14213D;
+}
+.navbar li {
+    float: left;
+}
+
+.navbar a {
+    display: block;
+    border-right: solid #FFFFFF 1px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.navbar a.active {
+    background-color: #FFFFFF;
+}
+
+.navbar a:hover {
+    background-color: #A5A5A5;
+}
+
+
+#assignment {
+    float: right;
+    border-left: solid #FFFFFF 1px;
+    border-right: none;
+}
+
+
+a:link {
+    text-decoration: none;
+    color: #eb9813;
+}
+
+a:visited {
+    color: #eb9813; 
+    text-decoration: none;	
+}
+
+body {
+	background-color:#f6d8ac ;
+}
+
+h1, h2 {
+	color:#f54242 ;
+	font-family: verdana;
+}
+
+h3 {
+	color:#424bf5 ;
+	font-family:times;
+	font-size:140% ;
+}
+
+pre {
+	color: #2a6592;
+	font-family:garamond ;
+	font-size: 110%;
+	font-weight: 700;
+	line-height: 1.2;
+}
+*/
